@@ -1,5 +1,4 @@
-# UAS_WEB-2_PUTRA-HENGKI-TRIO-ZEBUA_312410652
-# UAS_Web2_312410652_Putra-Hengki-Trio-Zebua
+# UAS_WEB-2_PUTRA-HENGKI-TRIO-ZEBUA_312410652    
 1. Pratikum 1: membuat program sederhana menggunakan Framework Codeigniter4.
    <img width="959" height="539" alt="Cuplikan layar 2026-06-26 222029" src="https://github.com/user-attachments/assets/b22d58cf-678c-41dd-af07-16ebf8a1257c" />
 2. Pratikum 2: membuat aplikasi CRUD sederhana, dengan menyiapkan database server menggunakan MySQL.
